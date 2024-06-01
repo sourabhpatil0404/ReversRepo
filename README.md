@@ -1,3 +1,3 @@
-Exploring the Git&GitHub.
+# Exploring the Git&GitHub.
 <br>
-Explorer GitGym.
+----------Explorer GitGym.
